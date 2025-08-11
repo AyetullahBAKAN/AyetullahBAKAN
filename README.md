@@ -1,19 +1,15 @@
-<!-- En üstte geniş kod yağmuru animasyonu -->
+<!-- Üstte kod yazan hareketli gif -->
 <p align="center">
-  <img src="https://i.gifer.com/origin/0b/0b504da1d2f04c0a91e6e0c8f2c8c81f.gif" alt="code rain animation" width="100%" />
+  <img src="https://c.tenor.com/7VtWj9D21KoAAAAC/code-coding.gif" alt="coding animation" width="600" />
+</p>
+<!-- Başlık hareketli -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&center=true&vCenter=true&width=600&lines=Merhaba+Ben+Ayetullah" alt="typing animation" />
 </p>
 
-<!-- Matrix gif -->
+<!-- Alt başlık hareketli -->
 <p align="center">
-  <img src="https://i.gifer.com/origin/f4/f4fcfb2c9c7808c1e68e20d44d88a3a3_w200.gif" alt="matrix" width="600" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=500&lines=Merhaba+Ben+Ayetullah" alt="typing animation" />
-</p>
-
-<p align="center">
-  💻 Bilgisayar Mühendisi | 🚀 Sürekli Öğrenen & Üreten | 🔍 Yeni Teknolojilere Meraklı
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ff99&center=true&vCenter=true&width=600&lines=Bilgisayar+Mühendisi;Sürekli+Öğrenen+ve+Üreten;Yeni+Teknolojilere+Meraklı" alt="typing animation" />
 </p>
 
 ---
@@ -38,7 +34,6 @@ ve uygulayarak kendimi sürekli yeniliyorum.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,git,docker,mysql,unity,wordpress" />
 </p>
-
 <p align="center" style="font-size:16px; margin-top:10px;">
   C#, Asp.Net Core, Asp.Net Forms, WebApi, JWT, RabbitMQ, Docker, Git, SQL, HTML, CSS, Bootstrap, Unity, Sketchup, Wordpress
 </p>
@@ -56,4 +51,8 @@ public class AyetullahBakan : Developer
     public string FavoriteLanguage => "C#";
     public bool IsAlwaysLearning => true;
 
-    public void
+    public void SayHi() 
+    {
+        Console.WriteLine("Merhaba! Haydi birlikte projeler geliştirelim! ");
+    }
+}
