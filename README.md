@@ -7,8 +7,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayetullahbakan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayetullahbakan&layout=compact&theme=radical)
 
 ---
 
@@ -16,4 +16,5 @@
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KULLANICI_ADIN.KULLANICI_ADIN)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ayetullahbakan.ayetullahbakan)
+
