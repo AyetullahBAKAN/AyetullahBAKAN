@@ -40,7 +40,7 @@ ve uygulayarak kendimi sürekli yeniliyorum.
 
 ---
 
-## 👨‍💻 Benim Kod Dünyam
+## 💻 Benim Kod Dünyam
 
 ```csharp
 public class AyetullahBakan : Developer
